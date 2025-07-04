@@ -77,5 +77,22 @@ Avg Infant Deaths = AVERAGE('Life_cleaned'[infant deaths])
 - Global life expectancy has steadily improved from 2000 to 2015
 
 ---
+## 📌 Project Status
+
+✅ Completed 
+
+---
+
+## 🔗How to Use
+
+1. Download the `.pbix` file from this repository
+2. Open it using **Microsoft Power BI Desktop**
+3. Interact with filters and visuals to explore trends
+
+---
+## 👤 Author
+
+**Shreesha – Data Analyst Intern**  
+[LinkedIn Profile](https://www.linkedin.com/in/shreesha-poojary85)
 
 
